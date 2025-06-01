@@ -1,8 +1,9 @@
 Olá !!
 
 
-- 🔭 Buscando primeira oportunidade como cientista de dados jr.
+
 - 🌱 Formado em Análise e desenvolvimento de sistema.
+- 👀 buscando primeira oportunidade na área de dados.
 
 
 <div style="display: inline_block"><br>
